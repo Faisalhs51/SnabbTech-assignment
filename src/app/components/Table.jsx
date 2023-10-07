@@ -77,7 +77,7 @@ const Table = ({ data }) => {
                       width="35"
                       height="35"
                       fill="currentColor"
-                      class="bi bi-sort-alpha-down"
+                      className="bi bi-sort-alpha-down"
                       viewBox="0 0 16 16"
                     >
                       <path
