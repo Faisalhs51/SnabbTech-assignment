@@ -35,6 +35,7 @@ export default function Home() {
     setCountryCode(91);
     setEmail("");
     setPassword("");
+    alert("Form submitted successfully.")
   };
   return (
     <>
